@@ -1,0 +1,115 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Röya Ayxan",
+        "imgSrc": "https://example.com/roya.jpg",
+        "genre": "Pop",
+        "country": "Azerbaijan",
+        "age": 37,
+        "info": "A famous Azerbaijani pop artist and actress.",
+        "isVerified": true,
+        "songs": ["Düşürsən yada", "Göndər"]
+      },
+      {
+        "id": 2,
+        "name": "John Doe",
+        "imgSrc": "https://example.com/john.jpg",
+        "genre": "Pop",
+        "country": "USA",
+        "age": 30,
+        "info": "A popular artist known for his amazing pop songs.",
+        "isVerified": true,
+        "songs": ["Love in the Air", "Forever Young"]
+      },
+      {
+        "id": 3,
+        "name": "Jane Smith",
+        "imgSrc": "https://example.com/jane.jpg",
+        "genre": "Rock",
+        "country": "UK",
+        "age": 28,
+        "info": "A British rock artist with a powerful voice.",
+        "isVerified": true,
+        "songs": ["Rock On", "Thunder"]
+      },
+      {
+        "id": 4,
+        "name": "Ali Veliyev",
+        "imgSrc": "https://example.com/ali.jpg",
+        "genre": "Jazz",
+        "country": "Turkey",
+        "age": 35,
+        "info": "A Turkish jazz musician with a unique style.",
+        "isVerified": false,
+        "songs": ["Jazz Nights", "Istanbul Blues"]
+      },
+      {
+        "id": 5,
+        "name": "Maria Lopez",
+        "imgSrc": "https://example.com/maria.jpg",
+        "genre": "Classical",
+        "country": "Spain",
+        "age": 42,
+        "info": "A Spanish classical singer with an impressive career.",
+        "isVerified": true,
+        "songs": ["La Luna", "El Amor"]
+      },
+      {
+        "id": 6,
+        "name": "Namiq Qaracuxurlu",
+        "imgSrc": "https://example.com/namiq.jpg",
+        "genre": "Pop",
+        "country": "Azerbaijan",
+        "age": 34,
+        "info": "A rising star in Azerbaijani pop music.",
+        "isVerified": true,
+        "songs": ["Dön Geri", "Bizi Sevsin"]
+      },
+      {
+        "id": 7,
+        "name": "Mahir Ay Brat",
+        "imgSrc": "https://example.com/mahir.jpg",
+        "genre": "Rap",
+        "country": "Azerbaijan",
+        "age": 29,
+        "info": "A popular Azerbaijani rapper with a unique style.",
+        "isVerified": true,
+        "songs": ["Bizi Qəzəbli", "Hədəf"]
+      },
+      {
+        "id": 8,
+        "name": "Eyyub Yaqubov",
+        "imgSrc": "https://example.com/eyyub.jpg",
+        "genre": "Rock",
+        "country": "Azerbaijan",
+        "age": 40,
+        "info": "A seasoned Azerbaijani rock musician.",
+        "isVerified": false,
+        "songs": ["Yollar", "Gecə Yarısı"]
+      },
+      {
+        "id": 9,
+        "name": "Fhryme Da",
+        "imgSrc": "https://example.com/fhryme.jpg",
+        "genre": "Alternative",
+        "country": "Azerbaijan",
+        "age": 25,
+        "info": "An alternative artist breaking into the music scene.",
+        "isVerified": true,
+        "songs": ["Yaşamaq", "Qapılar"]
+      },
+      {
+        "id": 10,
+        "name": "Hadisə",
+        "imgSrc": "https://example.com/hadise.jpg",
+        "genre": "Pop",
+        "country": "Turkey",
+        "age": 38,
+        "info": "A Turkish pop singer and television personality.",
+        "isVerified": true,
+        "songs": ["Düm Tek Tek", "Aşk Kaç Beden Giyer"]
+      }
+    ]
+  }
+  
